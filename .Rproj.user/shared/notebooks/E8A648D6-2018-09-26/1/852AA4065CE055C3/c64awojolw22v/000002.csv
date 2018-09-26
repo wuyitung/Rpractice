@@ -1,0 +1,10 @@
+"0","levels(student$`出生地`)"
+"1","NULL
+"
+"2","Warning message:
+"
+"2","In strsplit(code, ""\n"", fixed = TRUE) :"
+"2","
+ "
+"2"," input string 1 is invalid in this locale
+"
